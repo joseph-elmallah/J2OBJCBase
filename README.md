@@ -1,7 +1,7 @@
 # J2OBJCBase
 A sample base project with J2ObjC setup for using Java code in iOS.
 
-This project is part of a Medium article that you can find here:
+This project is part of a Medium article that you can find [here](https://medium.com/ubique-innovation/sharing-code-between-ios-and-android-using-j2objc-ecd6c4c247)
 
 This project helps illustrates a starting project with J2ObjC. It has the path correctly setup, the build rules and a sample code that you can replace with your own. The current example is showing how to run a `Game of Life` [Java core by Inoryy](https://github.com/inoryy/game-of-life-java) into an iOS application.
 
